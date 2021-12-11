@@ -12,6 +12,6 @@ int main() {
         cin >> b;
         numeri[i]=b;
     }
-    cout<<maxarray(n, numeri)<<endl;
+    cout<<maxarray(n, numeri[n])<<endl;
     return 0;
 }
