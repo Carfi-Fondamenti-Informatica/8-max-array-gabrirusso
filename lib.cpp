@@ -1,6 +1,6 @@
 #include "lib.h"
 
-float maxarray(int n, float numeri[]){
+float maxarray(int n, float numeri[n]){
     float max=numeri[0];
     for(int i=0;i<n;i++){
 
