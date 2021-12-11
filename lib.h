@@ -3,6 +3,6 @@
 #define UNTITLED13_LIB_H
 
 
-float maxarray(int , float );
+float maxarray(int n, float numeri[]);
 
 #endif //UNTITLED13_LIB_H
